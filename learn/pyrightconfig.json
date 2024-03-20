@@ -1,0 +1,14 @@
+{
+    "executionEnvironments": [
+        {
+            "python": "C:/Users/GOWTHAM/OneDrive/Desktop/blog-api/blog-api/Scripts/python"
+        }
+    ],
+    "reportMissingImports": true,
+    "reportUnusedVariable": true,
+    "reportMissingModuleSource": true,
+    "useLibraryCodeForTypes": true,
+    "disableLanguageServices": false,
+    "venvPath": "C:/Users/GOWTHAM/OneDrive/Desktop/blog-api/blog-api",
+    "root": "C:/Users/GOWTHAM/OneDrive/Desktop/blog-api"
+}
